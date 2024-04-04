@@ -1,0 +1,6 @@
+@CQRSMediatR.ApiGateway.Api_HostAddress = http://localhost:5155
+
+GET {{CQRSMediatR.ApiGateway.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
